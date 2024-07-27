@@ -38,10 +38,10 @@
     ];
 </script>
 
-<SectionWrapper id="product">
+<SectionWrapper id="products">
     <div class="flex flex-col gap-10 sm:gap-16 md:gap-24 flex-1 items-center justify-center pb-10 md:pb-14">
         <div class="flex flex-col gap-2">
-            <p class="opacity-60 text-base sm:text-lg md:text-xl text-center">
+            <p class="text-base sm:text-lg md:text-xl text-center opacity-80">
                 Start your lifetime <span class="text-indigo-400">gym streak</span> today
             </p>
             <h3 class="text-3xl sm:text-4xl md:text-5xl max-w-[1000px] mx-auto w-full font-semibold text-center">
